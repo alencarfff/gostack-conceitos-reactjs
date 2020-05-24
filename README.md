@@ -24,7 +24,7 @@
 
 Nesse desafio, tive que criar uma aplicação para treinar o que aprendi no Nível 01 de ReactJS!
 
-Esta é o front-end da aplicação para que irá armazenar repositórios de um portfólio, onde o backend foi desenvolvido utilizando Node.js.
+Esta é o front-end da aplicação que irá armazenar repositórios de um portfólio, onde o backend foi desenvolvido utilizando Node.js.
 
 Repositório do backend em Node.js: **[Acessar repositório](https://github.com/alencarfff/gostack-conceitos-nodejs)**
 
